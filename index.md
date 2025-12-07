@@ -21,7 +21,7 @@ title: "Home"
 
 <section id="about" class="section">
   <div class="about-container">
-    <img src="{{ '/assets/images/me.jpeg' | relative_url }}"
+    <img src="{{ '/assets/images/Bewerbungsfoto schlecht.jpg' | relative_url }}"
          alt="Michael Shoemaker"
          class="profile-pic">
 
