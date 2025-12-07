@@ -32,11 +32,8 @@ title: "Home"
       <p><strong>Core skills:</strong> CAD · Metallverarbeitung · FEM · CFD · </p>
 
       <p class="social-links">
-        <a href="https://www.linkedin.com/in/michaelshoemaker1" target="_blank" aria-label="LinkedIn">
+        <a href="https://www.linkedin.com/in/justus-koch-8ba8a9247/" target="_blank" aria-label="LinkedIn">
           <i class="fa-brands fa-linkedin"></i>
-        </a>
-        <a href="https://www.youtube.com/@dataslinger6379" target="_blank" aria-label="YouTube">
-          <i class="fa-brands fa-youtube"></i>
         </a>
       </p>
     </div>
